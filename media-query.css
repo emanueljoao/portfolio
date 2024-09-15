@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+
+@media (min-width: 568px) and (max-width: 768px) {
+
+    header li {
+        padding: 26px 20px;
+    }
+
+    header li a {
+        padding: 26px 10px;
+    }
+
+    .nome {
+        text-align: center;
+    }
+
+}
+
+
+@media (max-width: 568px) {
+
+    header li {
+        padding: 26px 9px;
+    }
+
+    header li a {
+        font-size: 14px;
+        padding: 26px 0px;
+    }
+
+    .nome {
+        text-align: center;
+        font-size: 12px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    .iframe-youtube {
+        max-height: 200px;
+    }
+}
