@@ -59,6 +59,10 @@ section {
     font-size: 18px;
 }
 
+.conteudo-section-sobre-mim a {
+    color: #000;
+}
+
 /*----------------------------------------------------- SECTION - EXPERIÊNCIAS ----------------------------------------------------*/
 
 .conteudo-section-experiencias {
